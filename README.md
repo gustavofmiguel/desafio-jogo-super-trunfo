@@ -7,8 +7,8 @@ Projeto desenvolvido como **desafio** da faculdade para criar as cartas do jogo 
 Este programa realiza o cadastro de 2 cartas, exibe elas e compara atributos de cada, podendo esolher um atributo específico de comparação <br>
 <br>
 Foi desenvolvido conforme os parâmetros solicitados
-Adicionando novos apredizados confome seguiamos nas aulas
-a implementação segue um fluxo do basico ao avançado usando o mesmo código
+Adicionando novos apredizados confome seguiamos nas aulas <br>
+A implementação segue um fluxo do basico ao avançado usando o mesmo código
 <br>
 
 Com foco em aperfeiçoar os conhecimentos em lógica
