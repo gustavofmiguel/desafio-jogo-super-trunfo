@@ -4,7 +4,7 @@ Projeto desenvolvido como **desafio** da faculdade para criar as cartas do jogo 
 
 ## ✏️ Descrição do projeto
 
-Este programa em C realiza o cadastro, exibição de cartas, e compara atributos de cada carta do jogo Super Trunfo de cidades, utilizando apenas conceitos básicos de programação estruturada. <br>
+Este programa realiza o cadastro de 2 cartas, exibe elas e compara atributos de cada, podendo esolher um atributo específico de comparação <br>
 <br>
 Foi desenvolvido conforme os parâmetros solicitados
 Adicionando novos apredizados confome seguiamos nas aulas
