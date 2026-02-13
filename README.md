@@ -4,9 +4,9 @@ Projeto desenvolvido como **desafio** da faculdade para criar as cartas do jogo 
 
 ## ✏️ Descrição do projeto
 
-Este programa realiza o cadastro de 2 cartas, exibe elas e compara atributos de cada, podendo esolher um atributo específico de comparação <br>
+Este programa realiza o cadastro de 2 cartas, exibe elas e compara atributos de cada uma, podendo esolher um atributo específico de comparação <br>
 <br>
-Foi desenvolvido conforme os parâmetros solicitados
+Foi desenvolvido conforme os parâmetros solicitados <br>
 Adicionando novos apredizados confome seguiamos nas aulas <br>
 A implementação segue um fluxo do basico ao avançado usando o mesmo código
 <br>
